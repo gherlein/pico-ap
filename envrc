@@ -1,0 +1,6 @@
+export PICO_EXTRAS_PATH=/home/gherlein/src/pico/pico-extras
+export PICO_SDK_PATH=/home/gherlein/src/pico/pico-sdk
+export PICO_BOARD=pico
+export PICO_PLAYGROUND_PATH=/home/gherlein/src/pico/pico-playground
+export PICO_EXAMPLES_PATH=/home/gherlein/src/pico/pico-examples
+
